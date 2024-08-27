@@ -5,17 +5,38 @@
     width: 270px;
     height: 240px;
     margin-left: 459px;
+    margin-top: 40px;
     padding-top: 30px;
     border-radius: 200px 200px 200px 200px;
     box-shadow: 0 0 6px 6px #8be7ee;
 }
 .name{
     font-family: roman;
-    font-size: 25px;
+    font-size: 30px;
     text-align: center;
 }
 pre{
     font-family: roman; 
     font-size: 18px;
     padding-top: 0px;
+}
+a{
+    color: blue;
+}
+.name1{
+    font-family: roman;
+    font-size: 33px;
+    text-align: center;
+    padding-top: 40px;
+}
+#tribute-info{background-color: rgba(0, 0, 0, 0.845);
+height: 80px;
+width: 1300px;
+color: aliceblue;
+border-radius: 5px 5px 5px 5px
+}
+.footer{
+ padding-top: 25px;
+ padding-left: 30px;
+ font-size: 20px;
 }
