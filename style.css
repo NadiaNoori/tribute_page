@@ -1,25 +1,39 @@
-
-
+#img-div{
+    background-color: rgba(10, 2, 50, 0.968);
+    height: 337px;
+}
 
 #image{
     width: 270px;
     height: 240px;
-    margin-left: 459px;
-    margin-top: 40px;
-    padding-top: 30px;
-    border-radius: 200px 200px 200px 200px;
-    box-shadow: 0 0 6px 6px #8be7ee;
+    margin-left: 750px;
+    margin-top: -10px;
+    padding-top: 45px;
+   /* border-radius: 200px 200px 200px 200px; 
+    box-shadow: 0 0 10px 10px hsl(185, 86%, 69%);*/
+   
 }
 .name{
     font-family: roman;
-    font-size: 30px;
-    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    text-align: left;
+    color: aliceblue;
+    margin-left:160px;
+    margin-top: -130px;
+}
+h2{
+    margin-left: 85px;
+    color: rgb(200, 4, 190);
+    
 }
 pre{
     font-family: roman; 
     font-size: 18px;
     padding-top: 0px;
+  
 }
+
 a{
     color: blue;
 }
@@ -29,14 +43,23 @@ a{
     text-align: center;
     padding-top: 40px;
 }
-#tribute-info{background-color: rgba(0, 0, 0, 0.845);
-height: 80px;
-width: 1300px;
-color: aliceblue;
+#tribute-info{background-color: rgba(10, 2, 50, 0.968);
+height: 70px;
+width: 1200px;
+color: rgba(253, 253, 253, 0.945);
 border-radius: 5px 5px 5px 5px
 }
 .footer{
- padding-top: 25px;
+ padding-top: 24px;
  padding-left: 30px;
- font-size: 20px;
+ font-size: 16px;
 }
+
+
+
+
+
+
+
+
+
