@@ -1,0 +1,83 @@
+#img-div{
+    background-color: rgba(10, 2, 50, 0.968);
+    height: 337px;
+}
+
+#image{
+    width: 270px;
+    height: 240px;
+    margin-left: 750px;
+    margin-top: -10px;
+    padding-top: 45px;
+   /* border-radius: 200px 200px 200px 200px; 
+    box-shadow: 0 0 10px 10px hsl(185, 86%, 69%);*/
+}
+.name{
+    font-family: roman;
+    font-size: 50px;
+    font-style: italic;
+    text-align: left;
+    color: aliceblue;
+    margin-left:160px;
+    margin-top: -140px;
+}
+h2{
+    margin-left: 85px;
+    color: rgb(200, 4, 190);
+}
+h3{
+    margin-left: 82px;
+    font-size: 30px;
+    color: rgb(200, 4, 190);
+}
+pre{
+    font-family: roman; 
+    font-size: 18px;
+    padding-top: 0px;
+  
+}
+a{
+    color: blue;
+}
+.name1{
+    font-family: roman;
+    font-size: 33px;
+    text-align: center;
+    padding-top: 40px;
+}
+#tribute-info{background-color: rgba(10, 2, 50, 0.968);
+height: 70px;
+width: 1200px;
+color: rgba(253, 253, 253, 0.945);
+border-radius: 5px 5px 5px 5px
+}
+.int{
+    border-radius: 200px 200px 200px 200px; 
+    height: 110px;
+    width: 110px;
+    box-shadow: 0 0 5px 5px hsl(243, 92%, 15%);
+    margin-left: 118px;
+ 
+}
+label{
+    margin-left: 140px; 
+    font-size: 20px;
+}
+.intim{
+    display: flex;
+    direction: row;
+}
+.footer{
+ padding-top: 24px;
+ padding-left: 30px;
+ font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
